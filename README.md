@@ -14,7 +14,7 @@ The app has a launcher icon and splashscreen screen.
 
 1. There is a single screen for login and register.
 
-	The following screens should only be accessible after the user logs in.
+		The following screens should only be accessible after the user logs in.
 
 2. There is a screen showing list of available messages for the logged in user. 
 
