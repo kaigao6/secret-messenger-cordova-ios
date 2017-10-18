@@ -1,6 +1,6 @@
 # secret-messenger-cordova-ios
 
-This is a Cordova iOS App that allow registered users to send each other pictures with text messages hidden inside the pictures, which is called Steganography.
+This is a Cordova iOS Single Page App that allow registered users to send each other pictures with text messages hidden inside the pictures, which is called Steganography.
 
 	Steganography - is the practice of concealing a file, message, image, or video within another file, message, image, or video.
 
@@ -16,11 +16,11 @@ The app has a launcher icon and splashscreen screen.
 
 		The following screens should only be accessible after the user logs in.
 
-2. There is a screen showing list of available messages for the logged in user. 
+2. There is a screen (modal) showing list of available messages for the logged in user. 
 
-3. There is a screen for taking a picture with the device camera and then embedding a message in that image and sending it to a selected user's message queue. The user must be logged in to see this screen.
+3. There is a screen (modal) for taking a picture with the device camera and then embedding a message in that image and sending it to a selected user's message queue. The user must be logged in to see this screen.
 
-4. There is a screen for displaying the downloaded image and message that was embedded. 
+4. There is a screen (modal) for displaying the downloaded image and message that was embedded. 
 
 
 
