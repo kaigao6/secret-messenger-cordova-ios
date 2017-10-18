@@ -9,13 +9,19 @@ The application will allow users to register, login, take a photograph using the
 User Interface
 
 The app has a launcher icon and splashscreen screen.
-There is a single screen for login and register.
-There is a screen showing list of available messages for the logged in user. This screen should only be accessible after the user logs in.
 
-There is a screen for taking a picture with the device camera and then embedding a message in that image and sending it to a selected user's message queue. The user must be logged in to see this screen.
-There is a screen for displaying the downloaded image and message that was embedded. The user must be logged in to access this screen.
+There is a single screen for login and register.
+
+The following screens should only be accessible after the user logs in.
+
+	There is a screen showing list of available messages for the logged in user. 
+
+	There is a screen for taking a picture with the device camera and then embedding a message in that image and sending it to a selected user's message queue. The user must be logged in to see this screen.
+
+	There is a screen for displaying the downloaded image and message that was embedded. 
 
 Ratchet framework was used to build my interface and managing navigation between screens. 
+
 
 Accessing the bits inside an Image (process of Steganography)
 
