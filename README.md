@@ -1,4 +1,7 @@
 # secret-messenger-cordova-ios
+All source code path:
+secret-messenger-cordova-ios/mySecretAppFolder/www/
+
 
 This is a Cordova iOS Single Page App that allow registered users to send each other pictures with text messages hidden inside the pictures, which is called Steganography.
 
