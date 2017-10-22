@@ -2,7 +2,14 @@
 
 This is a Cordova iOS Single Page App that allow registered users to send each other pictures with text messages hidden inside the pictures, which is called Steganography.
 
-	Steganography - is the practice of concealing a file, message, image, or video within another file, message, image, or video.
+* Applied Apache Cordova framework to turn HTML, CSS and JS into hybrid iOS App
+* Load web content asynchronously with AJAX (Fetching JSON data from server-side API to login, register, send messages, get lists of users, download lists of messages, download message details, and delete a message)
+* Applied Twitter Ratchet framework to build mobile interface and manage navigation between screens
+* Placed an image onto HTML5 Canvas Element to manipulate the image at the binary level, concealed/decoded a text message inside/from an image (Process of Steganography, this was the fun part)
+* Used Git to manage and maintain the project
+
+
+Steganography - is the practice of concealing a file, message, image, or video within another file, message, image, or video.
 
 The application will allow users to register, login, take a photograph using the device camera, encode a text message inside the image, upload the image with the hidden message to the server along with a targeted user to whom to send the message, download a list of messages being sent to the current user, download an image from the message queue, and decode a text message inside a downloaded image.
 
