@@ -4,7 +4,7 @@ secret-messenger-cordova-ios/mySecretAppFolder/www/
 
 I did this project all by myself.
 
-This is a Cordova iOS Single Page App that allow registered users to send each other pictures with text messages hidden inside the pictures, which is called Steganography.
+This is a Cordova iOS Single Page App that allow registered users to send each other pictures with text messages hidden inside the pictures(Steganography).
 
 * Applied Apache Cordova framework to turn HTML, CSS and JS into hybrid iOS App
 * Load web content asynchronously with AJAX (Fetching JSON data from server-side API to login, register, send messages, get lists of users, download lists of messages, download message details, and delete a message)
