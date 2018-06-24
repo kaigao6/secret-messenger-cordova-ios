@@ -40,4 +40,4 @@ Process of Steganography (Accessing the bits inside an Image )
 To access the bits inside an image, I put the image onto an HTML5 Canvas Element. Then I call the getImageData( ) method to retrieve an array of values.
 Each pixel has four values. One for red, one for green, one for blue, and one for alpha. Every value is between 0 and 255. This is one byte, or 8 bits.
 
-I loop through all the values and read those numbers and change those numbers by taking the binary version of text messages and saving those bits in the blue channels starting at a certain pixel on the canvas element. Once I have changed the numbers I pass them back to the image.
+I loop through all the values and read those numbers and change those numbers by taking the binary version of text messages and saving those bits in the blue channels starting at a certain pixel on the canvas element. Once I have changed the numbers I pass them back to the image
